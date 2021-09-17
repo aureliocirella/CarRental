@@ -1,4 +1,4 @@
-## "Car Rental"
+## Car Rental
 This work is the result of Web Application I course project, at Polytechnic University of Turin.  
 This is a web application for a Car Rental company that allows customer to check available cars, book rentals, and control past rental orders.
 The project is composed of a frontend based on Javascript React framework, a backend based on node.js, and a SQLite Database for persistent data. 
