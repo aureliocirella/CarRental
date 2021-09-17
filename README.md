@@ -1,5 +1,13 @@
-# Exam #1: "Car Rental"
-## Student: s277197 CIRELLA AURELIO 
+## "Car Rental"
+This work is the result of Web Application I course project, at Polytechnic University of Turin.  
+This is a web application for a Car Rental company that allows customer to check available cars, book rentals, and control past rental orders.
+The project is composed of a frontend based on Javascript React framework, a backend based on node.js, and a SQLite Database for persistent data. 
+
+## Web Application Screenshots
+
+<img src="./img/screenshot.png" width="800">
+<img src="./img/screenshot-1.png" width="800">
+<img src="./img/screenshot-2.png" width="800">
 
 ## React client application routes
 
@@ -77,9 +85,6 @@
 
 
 
-## Configurator Screenshot
-
-![Configurator Screenshot](./img/screenshot.png) 
 
 ## Test users
 
@@ -88,8 +93,3 @@
 * karl87, qwerty 
 * georgie_1, 0987654321
 * iris10, poiuyt 
-
-*To verify if the discout for when available cars are less than 10% of the overall cars of the same category try to rent a car for the <b>10/09/2020</b>.*
-
-## Project React Structure
-![Project structure](./img/proj_struct.png)
